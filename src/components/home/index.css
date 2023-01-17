@@ -1,0 +1,24 @@
+.ftco-animate{
+    opacity: 1;
+    visibility:visible;
+}
+.bg-dark{
+    background-color: #fff !important;
+  }
+.owl-carousel {
+    display: inline;
+}
+
+.owl-carousel.home-slider .slider-item .slider-text {
+    position: relative;
+    background-color: #dbcc8f !important;
+}
+.banner-img{
+    width: 600px !important;
+    height: 600px !important;
+    z-index: 100;
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translate(-20%,-60%);
+}
